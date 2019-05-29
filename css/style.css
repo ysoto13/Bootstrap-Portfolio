@@ -27,8 +27,8 @@ body {
      width: 960px;
      height: 550px;
      margin: 0 auto;
-     background: white;
-     text-align: center;
+     background:whitesmoke;
+     padding: 50px;
  }
 
  .aboutImg {
