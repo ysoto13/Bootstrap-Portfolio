@@ -24,6 +24,10 @@ body {
      font-size: 30px;
  }
 
+.breadcrumb {
+    background: rgb(103, 87, 134);
+}
+
  .box {
      width: 960px;
      height: 550px;
