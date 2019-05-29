@@ -39,3 +39,7 @@ body {
      margin-left: auto;
      margin-right: auto;
  }
+
+ footer {
+    border-top: 8px solid rgb(103, 87, 134);
+ }
