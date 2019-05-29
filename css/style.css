@@ -30,3 +30,8 @@ body {
      background: white;
      text-align: center;
  }
+
+ .aboutImg {
+     width: 200px;
+     height: 200px;
+ }
