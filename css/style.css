@@ -1,3 +1,17 @@
+body {
+    background:deeppink;
+}
+
+
 .navbar-brand {
     font-size: 45px;
 }
+
+.navbar-nav.pull-right {
+    float: right;
+   margin-right: 98px;
+ }
+
+ .navigationRight {
+    margin-left:55%;
+ }
