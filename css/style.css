@@ -6,6 +6,7 @@ body {
 .navbar-brand {
     font-size: 45px;
     margin-right: 40%;
+    font-weight: bold;
 }
 
 .navbar-nav.pull-right {
@@ -15,4 +16,8 @@ body {
 
  .navigationRight {
     margin-bottom: 0 auto;
+ }
+ 
+ .nav-link {
+     font-size: 30px;
  }
