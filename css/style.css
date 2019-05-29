@@ -5,6 +5,7 @@ body {
 
 .navbar-brand {
     font-size: 45px;
+    margin-right: 40%;
 }
 
 .navbar-nav.pull-right {
@@ -13,5 +14,5 @@ body {
  }
 
  .navigationRight {
-    margin-left:55%;
+    margin-bottom: 0 auto;
  }
