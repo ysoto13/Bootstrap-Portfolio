@@ -59,3 +59,22 @@ body {
     border-top: 8px solid rgb(103, 87, 134);
     text-align: center;
  }
+
+ @media screen and (max-width: 980px) {
+    .box,
+    .text {
+        width: 100%;
+}
+
+  
+@media screen and (max-width: 768px) {
+    .box,
+    .text {
+        width: 100%;
+}
+
+@media screen and (max-width: 640px) {
+        .box, .text {
+        width: 100%;
+        }
+}
