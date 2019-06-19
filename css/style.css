@@ -1,11 +1,13 @@
 /* font-family: 'Lobster Two', cursive;
 font-family: 'Special Elite', cursive;
 font-family: 'Homemade Apple', cursive;
-font-family: 'Fredericka the Great', cursive; */
+font-family: 'Fredericka the Great', cursive; 
+font-family: 'Mali', cursive;*/
 
 body {
     background:rgb(103, 87, 134);
     background-image: url(../images/fishnets-and-hearts.png);
+    font-family: 'Mali', cursive;
 }
 
 
@@ -14,6 +16,7 @@ body {
     margin-right: 40%;
     font-weight: bold;
     text-align: center;
+    font-family: 'Lobster Two', cursive;
 }
 
 .navbar-nav.pull-right {
