@@ -1,3 +1,8 @@
+/* font-family: 'Lobster Two', cursive;
+font-family: 'Special Elite', cursive;
+font-family: 'Homemade Apple', cursive;
+font-family: 'Fredericka the Great', cursive; */
+
 body {
     background:rgb(103, 87, 134);
     background-image: url(../images/fishnets-and-hearts.png);
@@ -63,7 +68,11 @@ body {
     bottom: 0;
     width: 100%;
     background-color: rgb(214, 214, 214);
-    color: rgb(1, 248, 186);
-    font-size: 50px;
-  
+    color: #000;
+    font-size: 20px;
+    font-family: 'Special Elite', cursive;
+ }
+
+ .logo {
+     padding-top: 20px;
  }
