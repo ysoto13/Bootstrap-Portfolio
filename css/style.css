@@ -32,6 +32,9 @@ body {
      font-size: 30px;
  }
 
+ #navbarNav {
+     text-align: right;
+ }
 
 .breadcrumb {
     background: rgb(103, 87, 134);
