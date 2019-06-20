@@ -21,7 +21,7 @@ body {
 
 .navbar-nav.pull-right {
     float: right;
-    margin-right: 98px;
+    margin-right: 0 auto;
  }
 
  .navigationLeft {
@@ -29,7 +29,7 @@ body {
  }
 
  .navigationRight {
-    margin: 0px 0px 0px 395px;
+    margin: 0px 0px 0px 385px;
  }
  
  .nav-link {
