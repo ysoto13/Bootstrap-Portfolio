@@ -68,7 +68,7 @@ body {
 
 .col-md-2 {
     float: left;
-    width: 50%;
+    width: 25%;
 }
 
 .row::after {
