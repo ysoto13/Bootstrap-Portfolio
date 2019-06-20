@@ -24,29 +24,30 @@ body {
     margin-right: 98px;
  }
 
- .navigationRight {
+ .navigationLeft {
     margin: 0 auto;
+ }
+
+ .navigationRight {
+    margin: 0px 0px 0px 395px;
  }
  
  .nav-link {
      font-size: 30px;
  }
 
- #navbarNav {
-     text-align: right;
- }
 
 .breadcrumb {
     background: rgb(103, 87, 134);
 }
 
-
  .box {
      width: 960px;
      height: 550px;
-     margin: 0 auto;
+     margin: 100px 0px 0px 395.5px;
      background:whitesmoke;
-     padding: 50px;
+     padding: 69px;
+     text-align: center;
  }
 
  .aboutImg {
