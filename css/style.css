@@ -66,6 +66,19 @@ body {
 
 }
 
+.col-md-2 {
+    float: left;
+    width: 50%;
+}
+
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
 
  footer {
     border-top: 8px solid rgb(103, 87, 134);
