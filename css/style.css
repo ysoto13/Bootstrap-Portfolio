@@ -66,10 +66,10 @@ body {
 
 }
 
-.col-md-2 {
+/* .col-md-2 {
     float: left;
     width: 25%;
-}
+} */
 
 .row::after {
     content: "";
