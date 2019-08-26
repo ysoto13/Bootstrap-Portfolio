@@ -2,17 +2,24 @@ body {
     background:rgb(103, 87, 134);
     background-image: url(../images/fishnets-and-hearts.png);
     font-family: 'Mali', cursive;
+
 }
 
 /* contact page */
 h1 {
     text-align: center;
 }
-.containerForm {
+
+#accordionExample {
     width: 560px;
     height: 250px;
-    margin: 0px 200px 0px 500px;
+    margin: 0px 200px 0px 550px;
     padding-top: 40px;
+    text-align: center;
+}
+
+.btn-link-dark {
+    font-size: 25px;
 }
 
 
@@ -54,17 +61,17 @@ h1 {
 
 /* about me page */
  .box {
-     width: 960px;
+     width: 1060px;
      height: 500px;
-     margin: 0px 0px 0px 300px;
+     margin: 50px 0px 0px 300px;
      background:whitesmoke;
-     padding-top: 20px;
+     padding-top: 30px;
      text-align: center;
      /* overflow: auto; */
  }
 
  .aboutImg {
-     width: 200px;
+     width: 400px;
      height: 250px;
      display: block;
      margin-left: auto;
