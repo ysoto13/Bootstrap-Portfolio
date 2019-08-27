@@ -22,6 +22,17 @@ h1 {
     font-size: 25px;
 }
 
+#headingOne {
+    background: rgb(103, 87, 134);
+    color: #fff;
+}
+
+.card-body {
+    background: rgb(103, 87, 134);
+    color: #fff;
+}
+
+
 
 /* portfolio page */
 .containerPortfolio {
@@ -64,9 +75,10 @@ h1 {
      width: 1060px;
      height: 500px;
      margin: 50px 0px 0px 300px;
-     background:whitesmoke;
+     
      padding-top: 30px;
      text-align: center;
+     /* background:whitesmoke; */
      /* overflow: auto; */
  }
 
