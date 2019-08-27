@@ -75,7 +75,6 @@ h1 {
      width: 1060px;
      height: 500px;
      margin: 50px 0px 0px 300px;
-     
      padding-top: 30px;
      text-align: center;
      /* background:whitesmoke; */
@@ -83,7 +82,7 @@ h1 {
  }
 
  .aboutImg {
-     width: 400px;
+     width: 200px;
      height: 250px;
      display: block;
      margin-left: auto;
